@@ -25,7 +25,7 @@ The system is designed to handle flight management, bookings, user notifications
 
 Here’s a visual representation of the system architecture:
 
-![System Architecture](https://mermaid.live/edit#pako:eNqVkstuwjAQRX_FMmIHEiUUVFeqlAepuuhDhV3CwoqHxMKxU9spRcC_15C0RSxa6oU1njln5MXd4kwxwATnmlYFmkepRO74SSg4SLtA_f7d7hXeajDW7FCQ-C8P6J5aWNPNomGDhlG1BYN-0DCJBc8Li2ag33kGv9NREii14jI_w6MjPgPJDHpSli95Ri1X0inT5LRx5jV3t4ueq8OUCmTsRrj9zeDwAOSjJReCdEahH18PesZqtQLS8TyvrftrzmxBhtXH7akXtF4ch1eDyeVe-OWNRp43vtyLWu8mHE6Cf_xz2nrjiecHf_4T93AJuqScuThsD3tSbAsoIcXElYzqVYpTuXccra2abWSGidU19LBWdV5gsqTCuFddMReQiFOXqfK7C4xbpR-btB1Dt_8E8rPQlw)
+![System Architecture]![Alt text](https://github.com/navabhi07/Airline-Ticket-Booking-Microservices/blob/master/mermaid-diagram-2024-09-19-110421.png)
 
 ### Diagram Description
 - **Client:** Initiates requests to the system.
