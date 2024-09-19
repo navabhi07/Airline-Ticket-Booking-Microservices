@@ -23,6 +23,12 @@ This project implements an Airline Booking System using a microservices architec
 The system is designed to handle flight management, bookings, user notifications, and provide a unified API interface.
 ## 🌐 System Architecture
 
+
+
+For more details, refer to the diagram above.
+
+ [Notification Service]
+```
 Here’s a visual representation of the system architecture:
 
 ![System Architecture](https://github.com/navabhi07/Airline-Ticket-Booking-Microservices/blob/master/mermaid-diagram-2024-09-19-110421.png?raw=true)
@@ -34,12 +40,6 @@ Here’s a visual representation of the system architecture:
 - **Flight Service:** Handles flight-related operations.
 - **Booking Service:** Manages booking processes.
 - **Notification Service:** Sends notifications related to bookings.
-
-For more details, refer to the diagram above.
-
- [Notification Service]
-```
-
 ## Microservices
 
 ### Flight Service
