@@ -25,7 +25,7 @@ The system is designed to handle flight management, bookings, user notifications
 
 Here’s a visual representation of the system architecture:
 
-![System Architecture](https://raw.githubusercontent.com/navabhi07/Airline-Ticket-Booking-Microservices/master/mermaid-diagram-2024-09-19-110421.png)
+![System Architecture](https://github.com/navabhi07/Airline-Ticket-Booking-Microservices/blob/master/mermaid-diagram-2024-09-19-110421.png?raw=true)
 
 
 ### Diagram Description
