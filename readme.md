@@ -19,20 +19,24 @@
 
 ## Introduction
 
-This project implements an Airline Booking System using a microservices architecture. The system is designed to handle flight management, bookings, user notifications, and provide a unified API interface.
+This project implements an Airline Booking System using a microservices architecture.
+The system is designed to handle flight management, bookings, user notifications, and provide a unified API interface.
+## 🌐 System Architecture
 
-## System Architecture
+Here’s a visual representation of the system architecture:
 
-```
-[Client] <--> [API Gateway] <--> [Flight Service]
-                   ^
-                   |
-                   v
-           [Booking Service]
-                   ^
-                   |
-                   v
-        [Notification Service]
+![System Architecture](https://mermaid.live/edit#pako:eNqVkstuwjAQRX_FMmIHEiUUVFeqlAepuuhDhV3CwoqHxMKxU9spRcC_15C0RSxa6oU1njln5MXd4kwxwATnmlYFmkepRO74SSg4SLtA_f7d7hXeajDW7FCQ-C8P6J5aWNPNomGDhlG1BYN-0DCJBc8Li2ag33kGv9NREii14jI_w6MjPgPJDHpSli95Ri1X0inT5LRx5jV3t4ueq8OUCmTsRrj9zeDwAOSjJReCdEahH18PesZqtQLS8TyvrftrzmxBhtXH7akXtF4ch1eDyeVe-OWNRp43vtyLWu8mHE6Cf_xz2nrjiecHf_4T93AJuqScuThsD3tSbAsoIcXElYzqVYpTuXccra2abWSGidU19LBWdV5gsqTCuFddMReQiFOXqfK7C4xbpR-btB1Dt_8E8rPQlw)
+
+### Diagram Description
+- **Client:** Initiates requests to the system.
+- **API Gateway:** Routes requests to appropriate services.
+- **Flight Service:** Handles flight-related operations.
+- **Booking Service:** Manages booking processes.
+- **Notification Service:** Sends notifications related to bookings.
+
+For more details, refer to the diagram above.
+
+ [Notification Service]
 ```
 
 ## Microservices
